@@ -1,0 +1,8 @@
+/Users/chazhenricks/workspace/csharp/orientation/exercises/bagAPI/bin/Debug/netcoreapp1.1/bagAPI.deps.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/bagAPI/bin/Debug/netcoreapp1.1/bagAPI.runtimeconfig.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/bagAPI/bin/Debug/netcoreapp1.1/bagAPI.runtimeconfig.dev.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/bagAPI/bin/Debug/netcoreapp1.1/bagAPI.dll
+/Users/chazhenricks/workspace/csharp/orientation/exercises/bagAPI/bin/Debug/netcoreapp1.1/bagAPI.pdb
+/Users/chazhenricks/workspace/csharp/orientation/exercises/bagAPI/obj/Debug/netcoreapp1.1/bagAPI.AssemblyInfo.cs
+/Users/chazhenricks/workspace/csharp/orientation/exercises/bagAPI/obj/Debug/netcoreapp1.1/bagAPI.dll
+/Users/chazhenricks/workspace/csharp/orientation/exercises/bagAPI/obj/Debug/netcoreapp1.1/bagAPI.pdb
